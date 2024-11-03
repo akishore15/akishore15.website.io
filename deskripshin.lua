@@ -1,0 +1,1 @@
+print("Hello, as we know, here we have a short description about my project. Some things you need to know is that it is just for fun, and any resemblance to fatal incidents is/are entirely a big misunderstanding, this has some actual info, and that it is just some fictious work. And that's it.")
